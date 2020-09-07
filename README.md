@@ -1,2 +1,2 @@
 # sendMail
-📧 A simple Mailscript in Python
+📧 A simple sendmailscript in Python
